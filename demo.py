@@ -5,6 +5,6 @@ b = 6
 c = a + b
 d = a - b
 
-result = (a,b)
+result = (c,d)
 
 print(result)
